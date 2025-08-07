@@ -1,0 +1,362 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "ERRMMm",
+        "author": "Me",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Mysterious Affair at Styles",
+        "author": "Agatha Christie",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Time Machine",
+        "author": "H. G. Wells",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "A Christmas Carol",
+        "author": "Charles Dickens",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Frankenstein or The Modern Prometheus",
+        "author": "Mary Shelley",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Lost World",
+        "author": "Arthur Conan Doyle",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Iron Heel",
+        "author": "Jack London",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Invisible Man",
+        "author": "H. G. Wells",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Flatland",
+        "author": "Edwin Abbott Abbott",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Prince",
+        "author": "Niccol\u00f2 Machiavelli",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Wind in the Willows",
+        "author": "Kenneth Grahame",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Five Children and It",
+        "author": "Edith Nesbit",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes [12 stories]",
+        "author": "Arthur Conan Doyle",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Man Who Was Thursday",
+        "author": "Gilbert Keith Chesterton",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Secret Adversary",
+        "author": "Agatha Christie",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The mystery of Edwin Drood",
+        "author": "Charles Dickens",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "His Last Bow [8 stories]",
+        "author": "Arthur Conan Doyle",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Riddle of the Sands",
+        "author": "Erskine Childers",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes Saavedra",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Bible",
+        "author": "Bible",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "When the Sleeper Awakes",
+        "author": "H. G. Wells",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Herland",
+        "author": "Charlotte Perkins Gilman",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The War of the Worlds",
+        "author": "H. G. Wells",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Northanger Abbey",
+        "author": "Jane Austen",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Ethan Frome",
+        "author": "Edith Wharton",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "\u041b\u0435\u0432 \u0422\u043e\u043b\u0441\u0442\u043e\u0439",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Napoleon of Notting Hill",
+        "author": "Gilbert Keith Chesterton",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Le Tour du Monde en Quatre-Vingts Jours",
+        "author": "Jules Verne",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Princess and Curdie",
+        "author": "George MacDonald",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte\u0308",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte\u0308",
+        "available": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "The Moonstone",
+        "author": "Wilkie Collins",
+        "available": true,
+        "borrowed_by": null
+    }
+]
