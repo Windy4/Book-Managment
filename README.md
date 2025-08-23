@@ -40,14 +40,6 @@ Catalyst aims to make organizing books **simple, intuitive, and fun**.
 
 ---
 
-## 📂 Project Structure
-catalyst/
-│── books.json # Stores all books & user data
-│── catalyst.py # Main application
-│── library/ # Core classes (Book, Library, User)
-│── ui/ # Tkinter UI frames & components
-│── README.md # You’re reading it now :)
-
 ## ⚡ Getting Started
 1. **Clone the repository**
    ```
